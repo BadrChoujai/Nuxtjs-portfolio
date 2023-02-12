@@ -36,7 +36,6 @@ export default {
 }
 </script>
 <style lang="postcss" scoped>
-/* CSS */
 .resume {
   @apply px-12;
   align-items: center;
